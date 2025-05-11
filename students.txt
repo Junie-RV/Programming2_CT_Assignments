@@ -1,0 +1,6 @@
+Alex 4580 Nickel Ln 2.7
+Carl 5672 Grain Ave 4.5
+David 3223 Pope Ln 4.0
+Diana 7129 Krell St 3.9
+Kelly 9001 Turner St 3.1
+Ramon 4673 Kermit St 3.8
